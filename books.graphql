@@ -1,0 +1,300 @@
+
+mutation {
+  createBook(input: {
+    title: "The Greatness Mindset"
+    author: "By: Lewis Howes"
+    length: "Length: 9 hrs and 7 mins"
+  }) {
+    book {
+      id
+      title
+      author
+      length
+    }
+  }
+}
+
+mutation {
+  createBook(input: {
+    title: "Get Trump"
+    author: "By: Alan Dershowitz"
+    length: "Length: 4 hrs and 54 mins"
+  }) {
+    book {
+      id
+      title
+      author
+      length
+    }
+  }
+}
+
+mutation {
+  createBook(input: {
+    title: "He Who Fights with Monsters 10"
+    author: "By: Shirtaloon, Travis Deverell"
+    length: "Length: 20 hrs"
+  }) {
+    book {
+      id
+      title
+      author
+      length
+    }
+  }
+}
+
+mutation {
+  createBook(input: {
+    title: "The Agatha Christie Collection"
+    author: "By: Agatha Christie"
+    length: "Length: 35 hrs and 57 mins"
+  }) {
+    book {
+      id
+      title
+      author
+      length
+    }
+  }
+}
+
+mutation {
+  createBook(input: {
+    title: "Champagne Venom"
+    author: "By: Nicole Fox"
+    length: "Length: 13 hrs and 59 mins"
+  }) {
+    book {
+      id
+      title
+      author
+      length
+    }
+  }
+}
+
+mutation {
+  createBook(input: {
+    title: "Why Women Deserve Less"
+    author: "By: Myron Gaines"
+    length: "Length: 2 hrs and 3 mins"
+  }) {
+    book {
+      id
+      title
+      author
+      length
+    }
+  }
+}
+
+mutation {
+  createBook(input: {
+    title: "Defiance of the Fall 9"
+    author: "By: TheFirstDefier, JF Brink"
+    length: "Length: 22 hrs and 34 mins"
+  }) {
+    book {
+      id
+      title
+      author
+      length
+    }
+  }
+}
+
+mutation {
+  createBook(input: {
+    title: "Duskbringer"
+    author: "By: Actus"
+    length: "Length: 13 hrs and 32 mins"
+  }) {
+    book {
+      id
+      title
+      author
+      length
+    }
+  }
+}
+
+mutation {
+  createBook(input: {
+    title: "Coach"
+    author: "By: Devney Perry"
+    length: "Length: 7 hrs and 57 mins"
+  }) {
+    book {
+      id
+      title
+      author
+      length
+    }
+  }
+}
+
+mutation {
+  createBook(input: {
+    title: "The Summer We Fell"
+    author: "By: Elizabeth O'Roark"
+    length: "Length: 9 hrs and 11 mins"
+  }) {
+    book {
+      id
+      title
+      author
+      length
+    }
+  }
+}
+
+mutation {
+  createBook(input: {
+    title: "Heart of My Monster"
+    author: "By: Rina Kent"
+    length: "Length: 8 hrs and 40 mins"
+  }) {
+    book {
+      id
+      title
+      author
+      length
+    }
+  }
+}
+
+mutation {
+  createBook(input: {
+    title: "Highest Bidder"
+    author: "By: Sara Cate"
+    length: "Length: 10 hrs and 2 mins"
+  }) {
+    book {
+      id
+      title
+      author
+      length
+    }
+  }
+}
+
+mutation {
+  createBook(input: {
+    title: "Does It Hurt?"
+    author: "By: H. D. Carlton"
+    length: "Length: 12 hrs and 7 mins"
+  }) {
+    book {
+      id
+      title
+      author
+      length
+    }
+  }
+}
+
+mutation {
+  createBook(input: {
+    title: "The Rules of Dating My Best Friend's Sister"
+    author: "By: Vi Keeland, Penelope Ward"
+    length: "Length: 10 hrs and 51 mins"
+  }) {
+    book {
+      id
+      title
+      author
+      length
+    }
+  }
+}
+
+mutation {
+  createBook(input: {
+    title: "Waybound"
+    author: "By: Will Wight"
+    length: "Length: 16 hrs and 13 mins"
+  }) {
+    book {
+      id
+      title
+      author
+      length
+    }
+  }
+}
+
+mutation {
+  createBook(input: {
+    title: "The 16 Undeniable Laws of Communication"
+    author: "By: John Maxwell"
+    length: "Length: 8 hrs and 57 mins"
+  }) {
+    book {
+      id
+      title
+      author
+      length
+    }
+  }
+}
+
+mutation {
+  createBook(input: {
+    title: "The Captain"
+    author: "By: Will Wight"
+    length: "Length: 11 hrs and 24 mins"
+  }) {
+    book {
+      id
+      title
+      author
+      length
+    }
+  }
+}
+
+mutation {
+  createBook(input: {
+    title: "Simply Lies"
+    author: "By: David Baldacci"
+    length: "Length: 11 hrs and 45 mins"
+  }) {
+    book {
+      id
+      title
+      author
+      length
+    }
+  }
+}
+
+mutation {
+  createBook(input: {
+    title: "The Tryst"
+    author: "By: Lauren Blakely"
+    length: "Length: 9 hrs and 46 mins"
+  }) {
+    book {
+      id
+      title
+      author
+      length
+    }
+  }
+}
+
+mutation {
+  createBook(input: {
+    title: "Professor Platonic"
+    author: "By: Lucy Lennox"
+    length: "Length: 1 hr and 5 mins"
+  }) {
+    book {
+      id
+      title
+      author
+      length
+    }
+  }
+}

@@ -1,0 +1,561 @@
+,date,home_team,score,away_team
+0,14-08-2022,Almeria,1 - 2,Real Madrid
+1,22-08-2022,Elche,1 - 1,Almeria
+2,27-08-2022,Almeria,2 - 1,Sevilla
+3,05-09-2022,Valladolid,1 - 0,Almeria
+4,12-09-2022,Almeria,0 - 1,Osasuna
+5,17-09-2022,Mallorca,1 - 0,Almeria
+6,30-09-2022,Ath Bilbao,4 - 0,Almeria
+7,08-10-2022,Almeria,3 - 1,Vallecano
+8,16-10-2022,Betis,3 - 1,Almeria
+9,20-10-2022,Almeria,3 - 2,Girona
+10,23-10-2022,Villarreal,2 - 1,Almeria
+11,29-10-2022,Almeria,3 - 1,Celta
+12,05-11-2022,Barcelona,2 - 0,Almeria
+13,09-11-2022,Almeria,1 - 0,Getafe
+14,30-12-2022,Cadiz,1 - 1,Almeria
+15,08-01-2023,Almeria,0 - 2,Sociedad
+16,15-01-2023,Almeria,1 - 1,Ath Madrid
+17,23-01-2023,Valencia,2 - 2,Almeria
+18,27-01-2023,Almeria,3 - 1,Espanol
+19,06-02-2023,Vallecano,2 - 0,Almeria
+20,11-02-2023,Almeria,2 - 3,Betis
+21,17-02-2023,Girona,6 - 2,Almeria
+22,26-02-2023,Almeria,1 - 0,Barcelona
+23,04-03-2023,Almeria,0 - 2,Villarreal
+24,12-03-2023,Sevilla,2 - 1,Almeria
+25,18-03-2023,Almeria,1 - 1,Cadiz
+26,02-04-2023,Celta,2 - 2,Almeria
+27,09-04-2023,Almeria,? - ?,Valencia
+28,15-08-2022,Ath Bilbao,0 - 0,Mallorca
+29,21-08-2022,Ath Bilbao,1 - 0,Valencia
+30,29-08-2022,Cadiz,0 - 4,Ath Bilbao
+31,04-09-2022,Ath Bilbao,0 - 1,Espanol
+32,11-09-2022,Elche,1 - 4,Ath Bilbao
+33,17-09-2022,Ath Bilbao,3 - 2,Vallecano
+34,30-09-2022,Ath Bilbao,4 - 0,Almeria
+35,08-10-2022,Sevilla,1 - 1,Ath Bilbao
+36,15-10-2022,Ath Bilbao,0 - 1,Ath Madrid
+37,18-10-2022,Getafe,2 - 2,Ath Bilbao
+38,23-10-2022,Barcelona,4 - 0,Ath Bilbao
+39,30-10-2022,Ath Bilbao,1 - 0,Villarreal
+40,04-11-2022,Girona,2 - 1,Ath Bilbao
+41,08-11-2022,Ath Bilbao,3 - 0,Valladolid
+42,29-12-2022,Betis,0 - 0,Ath Bilbao
+43,09-01-2023,Ath Bilbao,0 - 0,Osasuna
+44,14-01-2023,Sociedad,3 - 1,Ath Bilbao
+45,22-01-2023,Ath Bilbao,0 - 2,Real Madrid
+46,29-01-2023,Celta,1 - 0,Ath Bilbao
+47,03-02-2023,Ath Bilbao,4 - 1,Cadiz
+48,11-02-2023,Valencia,1 - 2,Ath Bilbao
+49,19-02-2023,Ath Madrid,1 - 0,Ath Bilbao
+50,26-02-2023,Ath Bilbao,2 - 3,Girona
+51,05-03-2023,Vallecano,0 - 0,Ath Bilbao
+52,12-03-2023,Ath Bilbao,0 - 1,Barcelona
+53,17-03-2023,Valladolid,1 - 3,Ath Bilbao
+54,01-04-2023,Ath Bilbao,0 - 0,Getafe
+55,08-04-2023,Espanol,? - ?,Ath Bilbao
+56,15-08-2022,Getafe,0 - 3,Ath Madrid
+57,21-08-2022,Ath Madrid,0 - 2,Villarreal
+58,29-08-2022,Valencia,0 - 1,Ath Madrid
+59,03-09-2022,Sociedad,1 - 1,Ath Madrid
+60,10-09-2022,Ath Madrid,4 - 1,Celta
+61,18-09-2022,Ath Madrid,1 - 2,Real Madrid
+62,01-10-2022,Sevilla,0 - 2,Ath Madrid
+63,08-10-2022,Ath Madrid,2 - 1,Girona
+64,15-10-2022,Ath Bilbao,0 - 1,Ath Madrid
+65,18-10-2022,Ath Madrid,1 - 1,Vallecano
+66,23-10-2022,Betis,1 - 2,Ath Madrid
+67,29-10-2022,Cadiz,3 - 2,Ath Madrid
+68,06-11-2022,Ath Madrid,1 - 1,Espanol
+69,09-11-2022,Mallorca,1 - 0,Ath Madrid
+70,29-12-2022,Ath Madrid,2 - 0,Elche
+71,08-01-2023,Ath Madrid,0 - 1,Barcelona
+72,15-01-2023,Almeria,1 - 1,Ath Madrid
+73,21-01-2023,Ath Madrid,3 - 0,Valladolid
+74,29-01-2023,Osasuna,0 - 1,Ath Madrid
+75,04-02-2023,Ath Madrid,1 - 1,Getafe
+76,12-02-2023,Celta,0 - 1,Ath Madrid
+77,19-02-2023,Ath Madrid,1 - 0,Ath Bilbao
+78,25-02-2023,Real Madrid,1 - 1,Ath Madrid
+79,04-03-2023,Ath Madrid,6 - 1,Sevilla
+80,13-03-2023,Girona,0 - 1,Ath Madrid
+81,18-03-2023,Ath Madrid,3 - 0,Valencia
+82,02-04-2023,Ath Madrid,1 - 0,Betis
+83,09-04-2023,Vallecano,? - ?,Ath Madrid
+84,13-08-2022,Barcelona,0 - 0,Vallecano
+85,21-08-2022,Sociedad,1 - 4,Barcelona
+86,28-08-2022,Barcelona,4 - 0,Valladolid
+87,03-09-2022,Sevilla,0 - 3,Barcelona
+88,10-09-2022,Cadiz,0 - 4,Barcelona
+89,17-09-2022,Barcelona,3 - 0,Elche
+90,01-10-2022,Mallorca,0 - 1,Barcelona
+91,09-10-2022,Barcelona,1 - 0,Celta
+92,16-10-2022,Real Madrid,3 - 1,Barcelona
+93,20-10-2022,Barcelona,3 - 0,Villarreal
+94,23-10-2022,Barcelona,4 - 0,Ath Bilbao
+95,29-10-2022,Valencia,0 - 1,Barcelona
+96,05-11-2022,Barcelona,2 - 0,Almeria
+97,08-11-2022,Osasuna,1 - 2,Barcelona
+98,31-12-2022,Barcelona,1 - 1,Espanol
+99,08-01-2023,Ath Madrid,0 - 1,Barcelona
+100,22-01-2023,Barcelona,1 - 0,Getafe
+101,28-01-2023,Girona,0 - 1,Barcelona
+102,01-02-2023,Betis,1 - 2,Barcelona
+103,05-02-2023,Barcelona,3 - 0,Sevilla
+104,12-02-2023,Villarreal,0 - 1,Barcelona
+105,19-02-2023,Barcelona,2 - 0,Cadiz
+106,26-02-2023,Almeria,1 - 0,Barcelona
+107,05-03-2023,Barcelona,1 - 0,Valencia
+108,12-03-2023,Ath Bilbao,0 - 1,Barcelona
+109,19-03-2023,Barcelona,2 - 1,Real Madrid
+110,01-04-2023,Elche,0 - 4,Barcelona
+111,10-04-2023,Barcelona,? - ?,Girona
+112,15-08-2022,Betis,3 - 0,Elche
+113,20-08-2022,Mallorca,1 - 2,Betis
+114,26-08-2022,Betis,1 - 0,Osasuna
+115,03-09-2022,Real Madrid,2 - 1,Betis
+116,11-09-2022,Betis,1 - 0,Villarreal
+117,18-09-2022,Betis,2 - 1,Girona
+118,02-10-2022,Celta,1 - 0,Betis
+119,09-10-2022,Valladolid,0 - 0,Betis
+120,16-10-2022,Betis,3 - 1,Almeria
+121,19-10-2022,Cadiz,0 - 0,Betis
+122,23-10-2022,Betis,1 - 2,Ath Madrid
+123,30-10-2022,Sociedad,0 - 2,Betis
+124,06-11-2022,Betis,1 - 1,Sevilla
+125,10-11-2022,Valencia,3 - 0,Betis
+126,29-12-2022,Betis,0 - 0,Ath Bilbao
+127,08-01-2023,Vallecano,1 - 2,Betis
+128,21-01-2023,Espanol,1 - 0,Betis
+129,28-01-2023,Getafe,0 - 1,Betis
+130,01-02-2023,Betis,1 - 2,Barcelona
+131,04-02-2023,Betis,3 - 4,Celta
+132,11-02-2023,Almeria,2 - 3,Betis
+133,18-02-2023,Betis,2 - 1,Valladolid
+134,24-02-2023,Elche,2 - 3,Betis
+135,05-03-2023,Betis,0 - 0,Real Madrid
+136,12-03-2023,Villarreal,1 - 1,Betis
+137,19-03-2023,Betis,1 - 0,Mallorca
+138,02-04-2023,Ath Madrid,1 - 0,Betis
+139,09-04-2023,Betis,? - ?,Cadiz
+140,14-08-2022,Cadiz,0 - 1,Sociedad
+141,20-08-2022,Osasuna,2 - 0,Cadiz
+142,29-08-2022,Cadiz,0 - 4,Ath Bilbao
+143,02-09-2022,Celta,3 - 0,Cadiz
+144,10-09-2022,Cadiz,0 - 4,Barcelona
+145,16-09-2022,Valladolid,0 - 1,Cadiz
+146,01-10-2022,Cadiz,0 - 0,Villarreal
+147,09-10-2022,Cadiz,2 - 2,Espanol
+148,15-10-2022,Girona,1 - 1,Cadiz
+149,19-10-2022,Cadiz,0 - 0,Betis
+150,22-10-2022,Vallecano,5 - 1,Cadiz
+151,29-10-2022,Cadiz,3 - 2,Ath Madrid
+152,05-11-2022,Getafe,0 - 0,Cadiz
+153,10-11-2022,Real Madrid,2 - 1,Cadiz
+154,30-12-2022,Cadiz,1 - 1,Almeria
+155,06-01-2023,Valencia,0 - 1,Cadiz
+156,16-01-2023,Cadiz,1 - 1,Elche
+157,21-01-2023,Sevilla,1 - 0,Cadiz
+158,28-01-2023,Cadiz,2 - 0,Mallorca
+159,03-02-2023,Ath Bilbao,4 - 1,Cadiz
+160,10-02-2023,Cadiz,2 - 0,Girona
+161,19-02-2023,Barcelona,2 - 0,Cadiz
+162,25-02-2023,Cadiz,1 - 0,Vallecano
+163,03-03-2023,Sociedad,0 - 0,Cadiz
+164,10-03-2023,Cadiz,2 - 2,Getafe
+165,18-03-2023,Almeria,1 - 1,Cadiz
+166,01-04-2023,Cadiz,0 - 2,Sevilla
+167,09-04-2023,Betis,? - ?,Cadiz
+168,13-08-2022,Celta,2 - 2,Espanol
+169,20-08-2022,Celta,1 - 4,Real Madrid
+170,26-08-2022,Girona,0 - 1,Celta
+171,02-09-2022,Celta,3 - 0,Cadiz
+172,10-09-2022,Ath Madrid,4 - 1,Celta
+173,17-09-2022,Valencia,3 - 0,Celta
+174,02-10-2022,Celta,1 - 0,Betis
+175,09-10-2022,Barcelona,1 - 0,Celta
+176,16-10-2022,Celta,1 - 2,Sociedad
+177,19-10-2022,Valladolid,4 - 1,Celta
+178,24-10-2022,Celta,1 - 1,Getafe
+179,29-10-2022,Almeria,3 - 1,Celta
+180,05-11-2022,Celta,1 - 2,Osasuna
+181,10-11-2022,Vallecano,0 - 0,Celta
+182,30-12-2022,Celta,1 - 1,Sevilla
+183,06-01-2023,Elche,0 - 1,Celta
+184,13-01-2023,Celta,1 - 1,Villarreal
+185,20-01-2023,Mallorca,1 - 0,Celta
+186,29-01-2023,Celta,1 - 0,Ath Bilbao
+187,04-02-2023,Betis,3 - 4,Celta
+188,12-02-2023,Celta,0 - 1,Ath Madrid
+189,18-02-2023,Sociedad,1 - 1,Celta
+190,26-02-2023,Celta,3 - 0,Valladolid
+191,06-03-2023,Osasuna,0 - 0,Celta
+192,11-03-2023,Celta,3 - 0,Vallecano
+193,18-03-2023,Espanol,1 - 3,Celta
+194,02-04-2023,Celta,2 - 2,Almeria
+195,07-04-2023,Sevilla,2 - 2,Celta
+196,15-08-2022,Betis,3 - 0,Elche
+197,22-08-2022,Elche,1 - 1,Almeria
+198,27-08-2022,Elche,0 - 1,Sociedad
+199,04-09-2022,Villarreal,4 - 0,Elche
+200,11-09-2022,Elche,1 - 4,Ath Bilbao
+201,17-09-2022,Barcelona,3 - 0,Elche
+202,03-10-2022,Vallecano,2 - 1,Elche
+203,10-10-2022,Elche,1 - 1,Mallorca
+204,15-10-2022,Valencia,2 - 2,Elche
+205,19-10-2022,Elche,0 - 3,Real Madrid
+206,23-10-2022,Espanol,2 - 2,Elche
+207,31-10-2022,Elche,0 - 1,Getafe
+208,05-11-2022,Valladolid,2 - 1,Elche
+209,08-11-2022,Elche,1 - 2,Girona
+210,29-12-2022,Ath Madrid,2 - 0,Elche
+211,06-01-2023,Elche,0 - 1,Celta
+212,16-01-2023,Cadiz,1 - 1,Elche
+213,22-01-2023,Elche,1 - 1,Osasuna
+214,28-01-2023,Sevilla,3 - 0,Elche
+215,04-02-2023,Elche,3 - 1,Villarreal
+216,15-02-2023,Real Madrid,4 - 0,Elche
+217,19-02-2023,Elche,0 - 1,Espanol
+218,24-02-2023,Elche,2 - 3,Betis
+219,04-03-2023,Mallorca,0 - 1,Elche
+220,11-03-2023,Elche,1 - 1,Valladolid
+221,19-03-2023,Sociedad,2 - 0,Elche
+222,01-04-2023,Elche,0 - 4,Barcelona
+223,08-04-2023,Osasuna,? - ?,Elche
+224,13-08-2022,Celta,2 - 2,Espanol
+225,19-08-2022,Espanol,0 - 2,Vallecano
+226,28-08-2022,Espanol,1 - 3,Real Madrid
+227,04-09-2022,Ath Bilbao,0 - 1,Espanol
+228,10-09-2022,Espanol,2 - 3,Sevilla
+229,18-09-2022,Sociedad,2 - 1,Espanol
+230,02-10-2022,Espanol,2 - 2,Valencia
+231,09-10-2022,Cadiz,2 - 2,Espanol
+232,16-10-2022,Espanol,1 - 0,Valladolid
+233,20-10-2022,Osasuna,1 - 0,Espanol
+234,23-10-2022,Espanol,2 - 2,Elche
+235,28-10-2022,Mallorca,1 - 1,Espanol
+236,06-11-2022,Ath Madrid,1 - 1,Espanol
+237,09-11-2022,Espanol,0 - 1,Villarreal
+238,31-12-2022,Barcelona,1 - 1,Espanol
+239,07-01-2023,Espanol,2 - 2,Girona
+240,15-01-2023,Getafe,1 - 2,Espanol
+241,21-01-2023,Espanol,1 - 0,Betis
+242,27-01-2023,Almeria,3 - 1,Espanol
+243,04-02-2023,Espanol,1 - 1,Osasuna
+244,13-02-2023,Espanol,2 - 3,Sociedad
+245,19-02-2023,Elche,0 - 1,Espanol
+246,25-02-2023,Espanol,2 - 1,Mallorca
+247,05-03-2023,Valladolid,2 - 1,Espanol
+248,11-03-2023,Real Madrid,3 - 1,Espanol
+249,18-03-2023,Espanol,1 - 3,Celta
+250,01-04-2023,Girona,2 - 1,Espanol
+251,08-04-2023,Espanol,? - ?,Ath Bilbao
+252,15-08-2022,Getafe,0 - 3,Ath Madrid
+253,22-08-2022,Girona,3 - 1,Getafe
+254,28-08-2022,Getafe,0 - 0,Villarreal
+255,04-09-2022,Valencia,5 - 1,Getafe
+256,11-09-2022,Getafe,2 - 1,Sociedad
+257,18-09-2022,Osasuna,0 - 2,Getafe
+258,01-10-2022,Getafe,2 - 3,Valladolid
+259,08-10-2022,Getafe,0 - 1,Real Madrid
+260,14-10-2022,Vallecano,0 - 0,Getafe
+261,18-10-2022,Getafe,2 - 2,Ath Bilbao
+262,24-10-2022,Celta,1 - 1,Getafe
+263,31-10-2022,Elche,0 - 1,Getafe
+264,05-11-2022,Getafe,0 - 0,Cadiz
+265,09-11-2022,Almeria,1 - 0,Getafe
+266,30-12-2022,Getafe,2 - 0,Mallorca
+267,08-01-2023,Sevilla,2 - 1,Getafe
+268,15-01-2023,Getafe,1 - 2,Espanol
+269,22-01-2023,Barcelona,1 - 0,Getafe
+270,28-01-2023,Getafe,0 - 1,Betis
+271,04-02-2023,Ath Madrid,1 - 1,Getafe
+272,12-02-2023,Getafe,1 - 1,Vallecano
+273,20-02-2023,Getafe,1 - 0,Valencia
+274,27-02-2023,Villarreal,2 - 1,Getafe
+275,04-03-2023,Getafe,3 - 2,Girona
+276,10-03-2023,Cadiz,2 - 2,Getafe
+277,19-03-2023,Getafe,2 - 0,Sevilla
+278,01-04-2023,Ath Bilbao,0 - 0,Getafe
+279,08-04-2023,Sociedad,? - ?,Getafe
+280,14-08-2022,Valencia,1 - 0,Girona
+281,22-08-2022,Girona,3 - 1,Getafe
+282,26-08-2022,Girona,0 - 1,Celta
+283,03-09-2022,Mallorca,1 - 1,Girona
+284,09-09-2022,Girona,2 - 1,Valladolid
+285,18-09-2022,Betis,2 - 1,Girona
+286,02-10-2022,Girona,3 - 5,Sociedad
+287,08-10-2022,Ath Madrid,2 - 1,Girona
+288,15-10-2022,Girona,1 - 1,Cadiz
+289,20-10-2022,Almeria,3 - 2,Girona
+290,23-10-2022,Girona,1 - 1,Osasuna
+291,30-10-2022,Real Madrid,1 - 1,Girona
+292,04-11-2022,Girona,2 - 1,Ath Bilbao
+293,08-11-2022,Elche,1 - 2,Girona
+294,29-12-2022,Girona,2 - 2,Vallecano
+295,07-01-2023,Espanol,2 - 2,Girona
+296,14-01-2023,Girona,2 - 1,Sevilla
+297,22-01-2023,Villarreal,1 - 0,Girona
+298,28-01-2023,Girona,0 - 1,Barcelona
+299,05-02-2023,Girona,1 - 0,Valencia
+300,10-02-2023,Cadiz,2 - 0,Girona
+301,17-02-2023,Girona,6 - 2,Almeria
+302,26-02-2023,Ath Bilbao,2 - 3,Girona
+303,04-03-2023,Getafe,3 - 2,Girona
+304,13-03-2023,Girona,0 - 1,Ath Madrid
+305,18-03-2023,Vallecano,2 - 2,Girona
+306,01-04-2023,Girona,2 - 1,Espanol
+307,10-04-2023,Barcelona,? - ?,Girona
+308,15-08-2022,Ath Bilbao,0 - 0,Mallorca
+309,20-08-2022,Mallorca,1 - 2,Betis
+310,27-08-2022,Vallecano,0 - 2,Mallorca
+311,03-09-2022,Mallorca,1 - 1,Girona
+312,11-09-2022,Real Madrid,4 - 1,Mallorca
+313,17-09-2022,Mallorca,1 - 0,Almeria
+314,01-10-2022,Mallorca,0 - 1,Barcelona
+315,10-10-2022,Elche,1 - 1,Mallorca
+316,15-10-2022,Mallorca,0 - 1,Sevilla
+317,19-10-2022,Sociedad,1 - 0,Mallorca
+318,22-10-2022,Valencia,1 - 2,Mallorca
+319,28-10-2022,Mallorca,1 - 1,Espanol
+320,06-11-2022,Villarreal,0 - 2,Mallorca
+321,09-11-2022,Mallorca,1 - 0,Ath Madrid
+322,30-12-2022,Getafe,2 - 0,Mallorca
+323,07-01-2023,Mallorca,1 - 0,Valladolid
+324,14-01-2023,Osasuna,1 - 0,Mallorca
+325,20-01-2023,Mallorca,1 - 0,Celta
+326,28-01-2023,Cadiz,2 - 0,Mallorca
+327,05-02-2023,Mallorca,1 - 0,Real Madrid
+328,11-02-2023,Sevilla,2 - 0,Mallorca
+329,18-02-2023,Mallorca,4 - 2,Villarreal
+330,25-02-2023,Espanol,2 - 1,Mallorca
+331,04-03-2023,Mallorca,0 - 1,Elche
+332,12-03-2023,Mallorca,1 - 1,Sociedad
+333,19-03-2023,Betis,1 - 0,Mallorca
+334,31-03-2023,Mallorca,0 - 0,Osasuna
+335,09-04-2023,Valladolid,? - ?,Mallorca
+336,12-08-2022,Osasuna,2 - 1,Sevilla
+337,20-08-2022,Osasuna,2 - 0,Cadiz
+338,26-08-2022,Betis,1 - 0,Osasuna
+339,04-09-2022,Osasuna,2 - 1,Vallecano
+340,12-09-2022,Almeria,0 - 1,Osasuna
+341,18-09-2022,Osasuna,0 - 2,Getafe
+342,02-10-2022,Real Madrid,1 - 1,Osasuna
+343,07-10-2022,Osasuna,1 - 2,Valencia
+344,17-10-2022,Villarreal,2 - 0,Osasuna
+345,20-10-2022,Osasuna,1 - 0,Espanol
+346,23-10-2022,Girona,1 - 1,Osasuna
+347,30-10-2022,Osasuna,2 - 0,Valladolid
+348,05-11-2022,Celta,1 - 2,Osasuna
+349,08-11-2022,Osasuna,1 - 2,Barcelona
+350,31-12-2022,Sociedad,2 - 0,Osasuna
+351,09-01-2023,Ath Bilbao,0 - 0,Osasuna
+352,14-01-2023,Osasuna,1 - 0,Mallorca
+353,22-01-2023,Elche,1 - 1,Osasuna
+354,29-01-2023,Osasuna,0 - 1,Ath Madrid
+355,04-02-2023,Espanol,1 - 1,Osasuna
+356,12-02-2023,Valladolid,0 - 0,Osasuna
+357,18-02-2023,Osasuna,0 - 2,Real Madrid
+358,26-02-2023,Sevilla,2 - 3,Osasuna
+359,06-03-2023,Osasuna,0 - 0,Celta
+360,11-03-2023,Valencia,1 - 0,Osasuna
+361,19-03-2023,Osasuna,0 - 3,Villarreal
+362,31-03-2023,Mallorca,0 - 0,Osasuna
+363,08-04-2023,Osasuna,? - ?,Elche
+364,14-08-2022,Almeria,1 - 2,Real Madrid
+365,20-08-2022,Celta,1 - 4,Real Madrid
+366,28-08-2022,Espanol,1 - 3,Real Madrid
+367,03-09-2022,Real Madrid,2 - 1,Betis
+368,11-09-2022,Real Madrid,4 - 1,Mallorca
+369,18-09-2022,Ath Madrid,1 - 2,Real Madrid
+370,02-10-2022,Real Madrid,1 - 1,Osasuna
+371,08-10-2022,Getafe,0 - 1,Real Madrid
+372,16-10-2022,Real Madrid,3 - 1,Barcelona
+373,19-10-2022,Elche,0 - 3,Real Madrid
+374,22-10-2022,Real Madrid,3 - 1,Sevilla
+375,30-10-2022,Real Madrid,1 - 1,Girona
+376,07-11-2022,Vallecano,3 - 2,Real Madrid
+377,10-11-2022,Real Madrid,2 - 1,Cadiz
+378,30-12-2022,Valladolid,0 - 2,Real Madrid
+379,07-01-2023,Villarreal,2 - 1,Real Madrid
+380,22-01-2023,Ath Bilbao,0 - 2,Real Madrid
+381,29-01-2023,Real Madrid,0 - 0,Sociedad
+382,02-02-2023,Real Madrid,2 - 0,Valencia
+383,05-02-2023,Mallorca,1 - 0,Real Madrid
+384,15-02-2023,Real Madrid,4 - 0,Elche
+385,18-02-2023,Osasuna,0 - 2,Real Madrid
+386,25-02-2023,Real Madrid,1 - 1,Ath Madrid
+387,05-03-2023,Betis,0 - 0,Real Madrid
+388,11-03-2023,Real Madrid,3 - 1,Espanol
+389,19-03-2023,Barcelona,2 - 1,Real Madrid
+390,02-04-2023,Real Madrid,6 - 0,Valladolid
+391,08-04-2023,Real Madrid,? - ?,Villarreal
+392,12-08-2022,Osasuna,2 - 1,Sevilla
+393,19-08-2022,Sevilla,1 - 1,Valladolid
+394,27-08-2022,Almeria,2 - 1,Sevilla
+395,03-09-2022,Sevilla,0 - 3,Barcelona
+396,10-09-2022,Espanol,2 - 3,Sevilla
+397,18-09-2022,Villarreal,1 - 1,Sevilla
+398,01-10-2022,Sevilla,0 - 2,Ath Madrid
+399,08-10-2022,Sevilla,1 - 1,Ath Bilbao
+400,15-10-2022,Mallorca,0 - 1,Sevilla
+401,18-10-2022,Sevilla,1 - 1,Valencia
+402,22-10-2022,Real Madrid,3 - 1,Sevilla
+403,29-10-2022,Sevilla,0 - 1,Vallecano
+404,06-11-2022,Betis,1 - 1,Sevilla
+405,09-11-2022,Sevilla,1 - 2,Sociedad
+406,30-12-2022,Celta,1 - 1,Sevilla
+407,08-01-2023,Sevilla,2 - 1,Getafe
+408,14-01-2023,Girona,2 - 1,Sevilla
+409,21-01-2023,Sevilla,1 - 0,Cadiz
+410,28-01-2023,Sevilla,3 - 0,Elche
+411,05-02-2023,Barcelona,3 - 0,Sevilla
+412,11-02-2023,Sevilla,2 - 0,Mallorca
+413,19-02-2023,Vallecano,1 - 1,Sevilla
+414,26-02-2023,Sevilla,2 - 3,Osasuna
+415,04-03-2023,Ath Madrid,6 - 1,Sevilla
+416,12-03-2023,Sevilla,2 - 1,Almeria
+417,19-03-2023,Getafe,2 - 0,Sevilla
+418,01-04-2023,Cadiz,0 - 2,Sevilla
+419,07-04-2023,Sevilla,2 - 2,Celta
+420,14-08-2022,Cadiz,0 - 1,Sociedad
+421,21-08-2022,Sociedad,1 - 4,Barcelona
+422,27-08-2022,Elche,0 - 1,Sociedad
+423,03-09-2022,Sociedad,1 - 1,Ath Madrid
+424,11-09-2022,Getafe,2 - 1,Sociedad
+425,18-09-2022,Sociedad,2 - 1,Espanol
+426,02-10-2022,Girona,3 - 5,Sociedad
+427,09-10-2022,Sociedad,1 - 0,Villarreal
+428,16-10-2022,Celta,1 - 2,Sociedad
+429,19-10-2022,Sociedad,1 - 0,Mallorca
+430,22-10-2022,Valladolid,1 - 0,Sociedad
+431,30-10-2022,Sociedad,0 - 2,Betis
+432,06-11-2022,Sociedad,1 - 1,Valencia
+433,09-11-2022,Sevilla,1 - 2,Sociedad
+434,31-12-2022,Sociedad,2 - 0,Osasuna
+435,08-01-2023,Almeria,0 - 2,Sociedad
+436,14-01-2023,Sociedad,3 - 1,Ath Bilbao
+437,21-01-2023,Vallecano,0 - 2,Sociedad
+438,29-01-2023,Real Madrid,0 - 0,Sociedad
+439,05-02-2023,Sociedad,0 - 1,Valladolid
+440,13-02-2023,Espanol,2 - 3,Sociedad
+441,18-02-2023,Sociedad,1 - 1,Celta
+442,25-02-2023,Valencia,1 - 0,Sociedad
+443,03-03-2023,Sociedad,0 - 0,Cadiz
+444,12-03-2023,Mallorca,1 - 1,Sociedad
+445,19-03-2023,Sociedad,2 - 0,Elche
+446,02-04-2023,Villarreal,2 - 0,Sociedad
+447,08-04-2023,Sociedad,? - ?,Getafe
+448,14-08-2022,Valencia,1 - 0,Girona
+449,21-08-2022,Ath Bilbao,1 - 0,Valencia
+450,29-08-2022,Valencia,0 - 1,Ath Madrid
+451,04-09-2022,Valencia,5 - 1,Getafe
+452,10-09-2022,Vallecano,2 - 1,Valencia
+453,17-09-2022,Valencia,3 - 0,Celta
+454,02-10-2022,Espanol,2 - 2,Valencia
+455,07-10-2022,Osasuna,1 - 2,Valencia
+456,15-10-2022,Valencia,2 - 2,Elche
+457,18-10-2022,Sevilla,1 - 1,Valencia
+458,22-10-2022,Valencia,1 - 2,Mallorca
+459,29-10-2022,Valencia,0 - 1,Barcelona
+460,06-11-2022,Sociedad,1 - 1,Valencia
+461,10-11-2022,Valencia,3 - 0,Betis
+462,31-12-2022,Villarreal,2 - 1,Valencia
+463,06-01-2023,Valencia,0 - 1,Cadiz
+464,23-01-2023,Valencia,2 - 2,Almeria
+465,29-01-2023,Valladolid,1 - 0,Valencia
+466,02-02-2023,Real Madrid,2 - 0,Valencia
+467,05-02-2023,Girona,1 - 0,Valencia
+468,11-02-2023,Valencia,1 - 2,Ath Bilbao
+469,20-02-2023,Getafe,1 - 0,Valencia
+470,25-02-2023,Valencia,1 - 0,Sociedad
+471,05-03-2023,Barcelona,1 - 0,Valencia
+472,11-03-2023,Valencia,1 - 0,Osasuna
+473,18-03-2023,Ath Madrid,3 - 0,Valencia
+474,03-04-2023,Valencia,1 - 1,Vallecano
+475,09-04-2023,Almeria,? - ?,Valencia
+476,13-08-2022,Valladolid,0 - 3,Villarreal
+477,19-08-2022,Sevilla,1 - 1,Valladolid
+478,28-08-2022,Barcelona,4 - 0,Valladolid
+479,05-09-2022,Valladolid,1 - 0,Almeria
+480,09-09-2022,Girona,2 - 1,Valladolid
+481,16-09-2022,Valladolid,0 - 1,Cadiz
+482,01-10-2022,Getafe,2 - 3,Valladolid
+483,09-10-2022,Valladolid,0 - 0,Betis
+484,16-10-2022,Espanol,1 - 0,Valladolid
+485,19-10-2022,Valladolid,4 - 1,Celta
+486,22-10-2022,Valladolid,1 - 0,Sociedad
+487,30-10-2022,Osasuna,2 - 0,Valladolid
+488,05-11-2022,Valladolid,2 - 1,Elche
+489,08-11-2022,Ath Bilbao,3 - 0,Valladolid
+490,30-12-2022,Valladolid,0 - 2,Real Madrid
+491,07-01-2023,Mallorca,1 - 0,Valladolid
+492,14-01-2023,Valladolid,0 - 1,Vallecano
+493,21-01-2023,Ath Madrid,3 - 0,Valladolid
+494,29-01-2023,Valladolid,1 - 0,Valencia
+495,05-02-2023,Sociedad,0 - 1,Valladolid
+496,12-02-2023,Valladolid,0 - 0,Osasuna
+497,18-02-2023,Betis,2 - 1,Valladolid
+498,26-02-2023,Celta,3 - 0,Valladolid
+499,05-03-2023,Valladolid,2 - 1,Espanol
+500,11-03-2023,Elche,1 - 1,Valladolid
+501,17-03-2023,Valladolid,1 - 3,Ath Bilbao
+502,02-04-2023,Real Madrid,6 - 0,Valladolid
+503,09-04-2023,Valladolid,? - ?,Mallorca
+504,13-08-2022,Barcelona,0 - 0,Vallecano
+505,19-08-2022,Espanol,0 - 2,Vallecano
+506,27-08-2022,Vallecano,0 - 2,Mallorca
+507,04-09-2022,Osasuna,2 - 1,Vallecano
+508,10-09-2022,Vallecano,2 - 1,Valencia
+509,17-09-2022,Ath Bilbao,3 - 2,Vallecano
+510,03-10-2022,Vallecano,2 - 1,Elche
+511,08-10-2022,Almeria,3 - 1,Vallecano
+512,14-10-2022,Vallecano,0 - 0,Getafe
+513,18-10-2022,Ath Madrid,1 - 1,Vallecano
+514,22-10-2022,Vallecano,5 - 1,Cadiz
+515,29-10-2022,Sevilla,0 - 1,Vallecano
+516,07-11-2022,Vallecano,3 - 2,Real Madrid
+517,10-11-2022,Vallecano,0 - 0,Celta
+518,29-12-2022,Girona,2 - 2,Vallecano
+519,08-01-2023,Vallecano,1 - 2,Betis
+520,14-01-2023,Valladolid,0 - 1,Vallecano
+521,21-01-2023,Vallecano,0 - 2,Sociedad
+522,30-01-2023,Villarreal,0 - 1,Vallecano
+523,06-02-2023,Vallecano,2 - 0,Almeria
+524,12-02-2023,Getafe,1 - 1,Vallecano
+525,19-02-2023,Vallecano,1 - 1,Sevilla
+526,25-02-2023,Cadiz,1 - 0,Vallecano
+527,05-03-2023,Vallecano,0 - 0,Ath Bilbao
+528,11-03-2023,Celta,3 - 0,Vallecano
+529,18-03-2023,Vallecano,2 - 2,Girona
+530,03-04-2023,Valencia,1 - 1,Vallecano
+531,09-04-2023,Vallecano,? - ?,Ath Madrid
+532,13-08-2022,Valladolid,0 - 3,Villarreal
+533,21-08-2022,Ath Madrid,0 - 2,Villarreal
+534,28-08-2022,Getafe,0 - 0,Villarreal
+535,04-09-2022,Villarreal,4 - 0,Elche
+536,11-09-2022,Betis,1 - 0,Villarreal
+537,18-09-2022,Villarreal,1 - 1,Sevilla
+538,01-10-2022,Cadiz,0 - 0,Villarreal
+539,09-10-2022,Sociedad,1 - 0,Villarreal
+540,17-10-2022,Villarreal,2 - 0,Osasuna
+541,20-10-2022,Barcelona,3 - 0,Villarreal
+542,23-10-2022,Villarreal,2 - 1,Almeria
+543,30-10-2022,Ath Bilbao,1 - 0,Villarreal
+544,06-11-2022,Villarreal,0 - 2,Mallorca
+545,09-11-2022,Espanol,0 - 1,Villarreal
+546,31-12-2022,Villarreal,2 - 1,Valencia
+547,07-01-2023,Villarreal,2 - 1,Real Madrid
+548,13-01-2023,Celta,1 - 1,Villarreal
+549,22-01-2023,Villarreal,1 - 0,Girona
+550,30-01-2023,Villarreal,0 - 1,Vallecano
+551,04-02-2023,Elche,3 - 1,Villarreal
+552,12-02-2023,Villarreal,0 - 1,Barcelona
+553,18-02-2023,Mallorca,4 - 2,Villarreal
+554,27-02-2023,Villarreal,2 - 1,Getafe
+555,04-03-2023,Almeria,0 - 2,Villarreal
+556,12-03-2023,Villarreal,1 - 1,Betis
+557,19-03-2023,Osasuna,0 - 3,Villarreal
+558,02-04-2023,Villarreal,2 - 0,Sociedad
+559,08-04-2023,Real Madrid,? - ?,Villarreal
