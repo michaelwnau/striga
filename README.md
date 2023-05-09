@@ -1,0 +1,2 @@
+# striga
+webscraping, pipelines, databases
