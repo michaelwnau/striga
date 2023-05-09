@@ -1,2 +1,2 @@
 # striga
-webscraping, pipelines, databases, serverless/headless, automation
+webscraping, pipelines, databases, serverless/headless, automation, ETL/ELT
